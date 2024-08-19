@@ -1,0 +1,23 @@
+{
+  "name": "node-backend-proj1",
+  "version": "1.0.0",
+  "description": "node-backend-proj1",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranggandhi/node-backend-proj1.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-backend"
+  ],
+  "author": "@Sarang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranggandhi/node-backend-proj1/issues"
+  },
+  "homepage": "https://github.com/saranggandhi/node-backend-proj1#readme"
+}
